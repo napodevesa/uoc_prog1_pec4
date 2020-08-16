@@ -1,4 +1,7 @@
-/*pac4-pec4 solution */
+//File: pec04
+//Author: Napoleón Devesa Dalio
+//Date: 03-10-2019
+// Description: PEC04
 
 #include <stdio.h>
 #define MAX_PATIENTS 10
